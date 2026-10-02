@@ -7,7 +7,7 @@ Welcome to the **Pentester's Swiss Army Knife**! This repository is designed to 
 ### 1. Installation
 Clone the repository and make the scripts executable:
 ```bash
-git clone https://github.com/LirikThePyDec/swisspen.git
+git clone https://github.com/LirikThePyDev/swisspen.git
 cd swisspen
 chmod +x scripts/knife.sh tools/install_tools.sh
 ```
